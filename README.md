@@ -1,2 +1,2 @@
 # Data Science
-Building out a porfolio for R
+Building out my portfolio 
