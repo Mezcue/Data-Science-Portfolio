@@ -1,2 +1,2 @@
-# R-Project
-Exploring Data
+# Data Science
+Building out a porfolio for R
